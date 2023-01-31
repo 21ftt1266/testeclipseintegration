@@ -8,6 +8,6 @@ public class testeclipseintegration {
 		
 		System.out.println("No Touch");
 		System.out.println("That was chun not Muhaimin");
-		System.out.println("Trying to stimulate an errorrrr");
+		System.out.println("Trying to stimulate an errorrrrr");
 	}
 }
