@@ -6,6 +6,6 @@ public class testeclipseintegration {
 		ClassA classA = new ClassA("ABCDEF");
 		System.out.println(classA.getAbc());
 		
-		System.out.println("No Touch");
+		System.out.println("Help");
 	}
 }
