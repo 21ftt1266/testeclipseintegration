@@ -5,5 +5,7 @@ public class testeclipseintegration {
 		System.out.println("GitHub");
 		ClassA classA = new ClassA("ABCDEF");
 		System.out.println(classA.getAbc());
+		
+		System.out.println("No Touch");
 	}
 }
