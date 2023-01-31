@@ -7,5 +7,7 @@ public class testeclipseintegration {
 		System.out.println(classA.getAbc());
 		
 		System.out.println("No Touch");
+		System.out.println("That was chun not Muhaimin");
+		
 	}
 }
